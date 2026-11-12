@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+#box1 {font-family: arial;background-color:#EEEEEE;width:250px;float:left;border-top:orange solid 17px;margin-right:20px;}
+#box2 {font-family: arial;background-color:#EEEEEE;width:250px;float:left ;border-top:red solid 17px;margin-right:20px}
+#box3 {font-family: arial;background-color:#EEEEEE;width:250px;float:left;border-top:blue solid 17px;margin-right:20px}
